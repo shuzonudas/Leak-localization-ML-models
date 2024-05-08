@@ -1,2 +1,2 @@
-# Leak-localization-ML-models
+# ML-models
 Sample source code for leak localization
