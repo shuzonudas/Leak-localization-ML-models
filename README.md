@@ -6,7 +6,7 @@ Sample source code for leak localization using machine learning models.
 This repository contains sample source code and resources for detecting and localizing leaks. It is associated with published research work.
 
 * **Research Paper:** [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S2667305324000784)
-* **Main Language:** Jupyter Notebook (100%)
+* **Main Language:** Python (100%)
 
 ---
 
